@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: rgba(183, 255, 250, 0.40);
+}
+/* #home-content{
+    top: 128px;
+} */
+.side-content{
+    margin-left: 55px;
+}
